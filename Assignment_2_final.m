@@ -1,7 +1,3 @@
-clc;
-clear;
-close all;
-%% 
 
 %% Part (a): Uncompensated System Analysis
 
